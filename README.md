@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there! 😁
+
+My name is Bruno Trindade Miranda Miguel from Brazil (🇧🇷). I'm a System Analysis and Development student and a fullstack developer.
+I'm also Senior Project Drafter and have developed many projects on large brazilian industrys.
+
+
+Would you like to find me?
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruno-trindade-miranda-miguel)](https://www.linkedin.com/in/bruno-trindade-miranda-miguel)
 
 <!--
 **brtrindade/brtrindade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
