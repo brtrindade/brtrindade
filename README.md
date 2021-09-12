@@ -1,6 +1,7 @@
 ### Hi there! 😁
 
-My name is Bruno Trindade Miranda Miguel from Brazil (🇧🇷). I'm a Fullstack Developer on Petrobras - Petróleo Brasileiro and a System Analysis and Development student.
+My name is Bruno Trindade Miranda Miguel from Brazil (🇧🇷). I'm a Developer Specialist at Grupo Boticario and previosly .NET Developer at Petrobras.
+
 I'm also Senior Project Drafter and have developed many projects on large brazilian industrys.
 
 
